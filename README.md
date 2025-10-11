@@ -2,8 +2,10 @@ ST7701 STM32 480x480 STM32H750 LTDC + SPI 9 BIT
 
 ![Screenshot_4](https://github.com/user-attachments/assets/876af3db-c7d4-4fe6-a95c-33a94404f7d4)
 
+![20251012_0009411](https://github.com/user-attachments/assets/ba414eb2-6708-4b65-b3c2-2c43c9981cc9)
+
 ![stm32h750 pinout](https://github.com/user-attachments/assets/2b741316-2b5b-447e-b7ba-a8f2059d5282)
 
 ![stm32h750 - Kopie](https://github.com/user-attachments/assets/d9cc1b1b-a4ab-4f86-b6bf-a8238d3bf32e)
 
-![20251012_0009411](https://github.com/user-attachments/assets/ba414eb2-6708-4b65-b3c2-2c43c9981cc9)
+
