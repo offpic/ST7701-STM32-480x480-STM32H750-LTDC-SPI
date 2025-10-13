@@ -1,6 +1,6 @@
 ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMAD
 
-![Screenshot_4](https://github.com/user-attachments/assets/876af3db-c7d4-4fe6-a95c-33a94404f7d4)
+![ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMAD](https://github.com/user-attachments/assets/3aed8ea8-f6ed-4a6f-885b-d031ba89199d)
 
 ![20251012_0009411](https://github.com/user-attachments/assets/ba414eb2-6708-4b65-b3c2-2c43c9981cc9)
 
