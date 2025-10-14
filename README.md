@@ -9,5 +9,4 @@ https://www.youtube.com/watch?v=_uNAQpm1aMU
 
 ![stm32h750 pinout](https://github.com/user-attachments/assets/2b741316-2b5b-447e-b7ba-a8f2059d5282)
 
-![stm32h750 - Kopie](https://github.com/user-attachments/assets/58e59a9a-ea2b-41b0-8e96-03ce7c94c5c3)
-
+![ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMAD TFT DISPLAY 1](https://github.com/user-attachments/assets/8a236f77-0e40-4986-9c92-58c918951324)
